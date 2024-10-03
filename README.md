@@ -1,6 +1,5 @@
 # Lưu trữ ảnh qua icloud sever
 # Giới thiệu
-#gioi
 
 Ứng dụng này được thiết kế để giúp người dùng lưu trữ và quản lý các tệp tin đa phương tiện như âm thanh, video, và ảnh. Mục tiêu chính của ứng dụng là cung cấp một giải pháp lưu trữ trực tuyến an toàn và tiện lợi, giúp người dùng giải phóng bộ nhớ trên thiết bị cá nhân bằng cách chuyển các dữ liệu quan trọng lên máy chủ. Điều này không chỉ giúp tiết kiệm không gian lưu trữ trên thiết bị của người dùng mà còn đảm bảo rằng dữ liệu của họ được bảo vệ và có thể truy cập dễ dàng từ bất kỳ đâu.
 
